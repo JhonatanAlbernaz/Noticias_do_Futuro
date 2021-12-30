@@ -1,0 +1,185 @@
+.height-600px {
+    height: 600px;
+}
+
+.background-image-col-lg-7-da-primeira-section {
+    background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28227efbbc70518a83e3e7bc/concept1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 555px;
+    margin: 47px auto 0 0;
+}
+
+.margin-70px {
+    margin: 70px 0 70px auto;
+}
+
+.padding-left-16px {
+    padding-left: 16px;
+}
+
+.padding-left-16px div {
+    width: 77px;
+    height: 116px;
+    background-image: linear-gradient(#5de078, #52afce);
+    margin: 0 auto 0 0;
+}
+
+.padding-left-16px h1 {
+    margin: -69px 20px 0;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.1;
+    font-size: 3.75rem;
+    font-family: Roboto,sans-serif;
+}
+
+.padding-left-16px p {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin: 34px 20px 30px;
+    line-height: 1.6;
+}
+
+.padding-left-16px a {
+    color: #ffffff;
+    text-decoration: none;
+    background-image: linear-gradient(to right, #5de078, #52afce);
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 14px 53px 14px 51px;
+    letter-spacing: 2px;
+    margin: 36px auto 0 20px;
+}
+
+
+
+/* Responsivo */
+
+@media (max-width: 320px) { 
+    .background-image-col-lg-7-da-primeira-section {
+        background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28227efbbc70518a83e3e7bc/concept1.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 250px;
+        margin: 47px auto 0 0;
+    }
+
+    .padding-left-16px h1 {
+        margin: -69px 20px 0;
+        font-weight: 700;
+        text-transform: capitalize;
+        line-height: 1.1;
+        font-size: 2.8rem;
+        font-family: Roboto,sans-serif;
+    }
+
+    .padding-left-16px p {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin: 34px 20px 45px;
+        line-height: 1.6;
+    }
+
+    .height-600px {
+        height: 915px;
+    }
+
+    .padding-left-16px {
+        padding-left: unset;
+    }
+
+    .padding-left-16px div {
+        width: 65px;
+        height: 116px;
+        background-image: linear-gradient(#5de078, #52afce);
+        margin: 0 auto 0 0;
+    }
+
+}
+  
+@media (min-width: 321px) and (max-width: 375px) {
+    .background-image-col-lg-7-da-primeira-section {
+        background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28227efbbc70518a83e3e7bc/concept1.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 295px;
+        margin: 47px auto 0 0;
+    }
+
+    .padding-left-16px h1 {
+        margin: -69px 20px 0;
+        font-weight: 700;
+        text-transform: capitalize;
+        line-height: 1.1;
+        font-size: 3rem;
+        font-family: Roboto,sans-serif;
+    }
+
+    .padding-left-16px p {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin: 34px 20px 45px;
+        line-height: 1.6;
+    }
+
+    .height-600px {
+        height: 915px;
+    }
+
+}
+  
+@media (min-width:  376px) and (max-width: 576px) {   
+    .background-image-col-lg-7-da-primeira-section {
+        background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28227efbbc70518a83e3e7bc/concept1.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 335px;
+        margin: 47px auto 0 0;
+    }
+
+    .padding-left-16px h1 {
+        margin: -69px 20px 0;
+        font-weight: 700;
+        text-transform: capitalize;
+        line-height: 1.1;
+        font-size: 3.2rem;
+        font-family: Roboto,sans-serif;
+    }
+
+    .padding-left-16px p {
+        font-size: 1.25rem;
+        font-weight: 600;
+        margin: 34px 20px 45px;
+        line-height: 1.6;
+    }
+
+    .height-600px {
+        height: 970px;
+    }
+
+}
+  
+@media (min-width: 577px) and (max-width: 768px) {
+    .height-600px {
+        height: 1010px;
+    }
+}
+  
+@media (min-width: 769px) and (max-width: 992px) {
+    
+}
+  
+@media (min-width: 993px) and (max-width: 1200px) {
+    .background-image-col-lg-7-da-primeira-section {
+        background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28227efbbc70518a83e3e7bc/concept1.jpg);
+        background-position: center;
+        background-size: cover;
+        height: 470px;
+        margin: 47px auto 0 0;
+    }
+}
+  
+@media (min-width: 1201px) {
+    
+}
