@@ -22,6 +22,21 @@
     height: 629px;
 }
 
+.height-662px {
+    height: 662px;
+}
+
+.height-276px {
+    height: 276px;
+    margin-top: 55px;
+    margin-left: -24px;
+}
+
+.height-275px {
+    height: 276px;
+    margin-left: -24px;
+}
+
 .background-image-col-lg-7-da-primeira-section {
     background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28227efbbc70518a83e3e7bc/concept1.jpg);
     background-position: center;
@@ -503,6 +518,102 @@
     height: 219px;
 }
 
+.div-padding-left-20px {
+    padding-left: 20px;
+    flex-direction: column;
+    display: flex;
+    background-color: #ffffff;
+    margin-top: 55px;
+    height: 552px;
+}
+
+.div-padding-left-20px div {
+    width: 19px;
+    height: 172px;
+    background-image: linear-gradient(#5de078, #52afce);
+    margin: -77px auto 0 0;
+}
+
+.div-padding-left-20px h2 {
+    margin: 20px 20px 0 0;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    font-size: 2.8rem;
+    font-family: Roboto,sans-serif;
+}
+
+.div-padding-left-20px p {
+    font-weight: 400;
+    line-height: 1.6;
+    font-size: 1rem;
+    margin: 20px 20px 15px 0;
+}
+
+.div-padding-left-20px a {
+    color: #ffffff;
+    background-image: linear-gradient(to right, #5de078, #52afce);
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 14px 53px 14px 51px;
+    letter-spacing: 2px;
+    width: 225px;
+    height: 50px;
+    position: relative;
+    margin: 20px 20px 55px 0;
+    background-color: #5de078;
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 1.4;
+}
+
+.background-image-col-lg-6-da-setima-section {
+    background-image: url(https://images01.nicepage.com/dc/76/dc76862b6b4cca9dca07755cbdd47ffe.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.background-color-e-color {
+    background-image: linear-gradient(#5de078, #52afce);
+    color: #ffffff;
+}
+
+.flex-direction {
+    padding-left: 20px;
+    justify-content: center;
+    display: flex !important;
+    flex-direction: column;
+}
+
+.flex-direction h3 {
+    margin: 50px 20px 0 0;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 1.2;
+    font-size: 1.875rem;
+    font-family: Roboto,sans-serif;
+}
+
+.flex-direction span {
+    height: 46px;
+    width: 46px;
+    margin: 30px auto 30px 0;
+    border-radius: 50%;
+    font-size: 50px;
+}
+
+.background-image-2-col-lg-6-da-setima-section {
+    background-image: url(https://images01.nicepage.com/b3/40/b340716180cbc0fd0a07a87ceee9055a.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.background-image-3-col-lg-6-da-setima-section {
+    background-image: url(https://images01.nicepage.com/3a/ea/3aea3ab44234631beb99797852f0ceb6.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
 
 
 /* Responsivo */
@@ -761,6 +872,62 @@
         height: 220px;
     }
 
+    .div-padding-left-20px {
+        padding-left: 20px;
+        flex-direction: column;
+        display: flex;
+        background-color: #ffffff;
+        margin-top: 55px;
+        height: 765px;
+    }
+
+    .div-padding-left-20px h2 {
+        margin: 20px 20px 0 0;
+        font-weight: 700;
+        text-transform: capitalize;
+        line-height: 1.2;
+        font-size: 2.3rem;
+        font-family: Roboto,sans-serif;
+    }
+
+    .height-276px {
+        height: 276px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .background-image-2-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/b3/40/b340716180cbc0fd0a07a87ceee9055a.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 276px;
+    }
+
+    .height-275px {
+        height: 276px;
+        margin-left: -24px;
+        margin-top: 227px;
+    }
+
+    .background-image-3-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/3a/ea/3aea3ab44234631beb99797852f0ceb6.jpeg);
+        background-position: center;
+        background-size: cover;
+        width: 272px;
+        height: 276px;
+        margin-left: 24px;
+    }
+
+    .width-50 {
+        margin-left: 24px;
+        width: 272px;
+    }
+
+    .height-662px {
+        height: 1929px;
+    }
+
 }
   
 @media (min-width: 321px) and (max-width: 375px) {
@@ -995,6 +1162,53 @@
     .video-widht-e-height {
         width: 295px;
         height: 220px;
+    }
+
+    .div-padding-left-20px {
+        padding-left: 20px;
+        flex-direction: column;
+        display: flex;
+        background-color: #ffffff;
+        margin-top: 55px;
+        height: 675px;
+    }
+
+    .height-276px {
+        height: 276px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .background-image-2-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/b3/40/b340716180cbc0fd0a07a87ceee9055a.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 276px;
+    }
+
+    .height-275px {
+        height: 276px;
+        margin-left: -24px;
+        margin-top: 227px;
+    }
+
+    .background-image-3-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/3a/ea/3aea3ab44234631beb99797852f0ceb6.jpeg);
+        background-position: center;
+        background-size: cover;
+        width: 327px;
+        height: 276px;
+        margin-left: 24px;
+    }
+
+    .width-50 {
+        margin-left: 24px;
+        width: 327px;
+    }
+
+    .height-662px {
+        height: 1785px;
     }
 
 }
@@ -1241,6 +1455,53 @@
         height: 220px;
     }
 
+    .div-padding-left-20px {
+        padding-left: 20px;
+        flex-direction: column;
+        display: flex;
+        background-color: #ffffff;
+        margin-top: 55px;
+        height: 625px;
+    }
+
+    .height-276px {
+        height: 276px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 100%;
+    }
+
+    .background-image-2-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/b3/40/b340716180cbc0fd0a07a87ceee9055a.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 276px;
+    }
+
+    .height-275px {
+        height: 276px;
+        margin-left: -24px;
+        margin-top: 228px;
+    }
+
+    .background-image-3-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/3a/ea/3aea3ab44234631beb99797852f0ceb6.jpeg);
+        background-position: center;
+        background-size: cover;
+        width: 377px;
+        height: 276px;
+        margin-left: 24px;
+    }
+
+    .width-50 {
+        margin-left: 24px;
+        width: 377px;
+    }
+
+    .height-662px {
+        height: 1760px;
+    }
+
 }
   
 @media (min-width: 577px) and (max-width: 768px) {
@@ -1386,6 +1647,45 @@
         margin: -30px auto 0 0;
     }
 
+    .height-276px {
+        height: 276px;
+        margin-top: 0px;
+        margin-left: 0px;
+        width: 50%;
+    }
+
+    .background-image-2-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/b3/40/b340716180cbc0fd0a07a87ceee9055a.jpeg);
+        background-position: center;
+        background-size: cover;
+        margin-left: 348px;
+        margin-top: -252px;
+        height: 252px;
+    }
+
+    .height-275px {
+        height: 276px;
+        margin-left: 0px;
+        margin-top: -23px;
+    }
+
+    .background-image-3-col-lg-6-da-setima-section {
+        background-image: url(https://images01.nicepage.com/3a/ea/3aea3ab44234631beb99797852f0ceb6.jpeg);
+        background-position: center;
+        background-size: cover;
+        height: 252px;
+        width: 348px;
+    }
+
+    .width-50 {
+        width: 50%;
+        height: 252px;
+    }
+
+    .height-662px {
+        height: 1170px;
+    }
+
 }
   
 @media (min-width: 769px) and (max-width: 992px) {
@@ -1461,6 +1761,23 @@
         width: 495px;
         height: 417px;
         margin: 40px auto 0 0;
+    }
+
+    .flex-direction h3 {
+        margin: 50px 20px 0 0;
+        font-weight: 700;
+        text-transform: capitalize;
+        line-height: 1.2;
+        font-size: 1.7rem;
+        font-family: Roboto,sans-serif;
+    }
+
+    .flex-direction span {
+        height: 46px;
+        width: 46px;
+        margin: 30px auto 30px 0;
+        border-radius: 50%;
+        font-size: 45px;
     }
 
 }
