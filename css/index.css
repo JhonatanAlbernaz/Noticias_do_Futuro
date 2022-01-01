@@ -14,6 +14,10 @@
     height: 500px;
 }
 
+.height-775px {
+    height: 775px;
+}
+
 .background-image-col-lg-7-da-primeira-section {
     background-image: url(https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28227efbbc70518a83e3e7bc/concept1.jpg);
     background-position: center;
@@ -296,6 +300,31 @@
     text-decoration: none;
     font-weight: 600;
     padding: 8px;
+}
+
+.background-image-container-fluid-da-quinta-section {
+    background-image: url(https://images01.nicepage.com/00/8c/008c7be88c50e49c97b7433912d7cecf.jpeg);
+    background-position: center;
+    background-size: cover;
+}
+
+.div-width-476px {
+    width: 476px;
+    height: 350px;
+    background-image: linear-gradient(#5de078, #52afce);
+    margin: 81px auto 0 -40px;
+}
+
+.div-width-464px {
+    width: 464px;
+    min-height: 641px;
+    height: auto;
+    background-image: none;
+    box-shadow: 0 0 40px 0 rgb(0 0 0 / 25%);
+    margin: -599px auto 0 0;
+    color: #243638;
+    background-color: #ffffff;
+    display: flex;
 }
 
 
