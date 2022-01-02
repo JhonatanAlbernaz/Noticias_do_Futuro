@@ -849,6 +849,10 @@
     font-size: 0.8rem;
 }
 
+.margin-top-125px {
+    margin-top: -125px;
+}
+
 
 
 /* Responsivo */
@@ -2038,6 +2042,10 @@
         margin-top: 40px;
     }
 
+    .margin-top-125px {
+        margin-top: -125px;
+    }
+
 }
   
 @media (min-width: 577px) and (max-width: 768px) {
@@ -2276,6 +2284,10 @@
         margin-top: 40px;
     }
 
+    .margin-top-125px {
+        margin-top: -125px;
+    }
+
 }
   
 @media (min-width: 769px) and (max-width: 992px) {
@@ -2454,6 +2466,10 @@
     .margin-left-380 {
         margin-left: 295px;
         margin-top: 40px;
+    }
+
+    .margin-top-125px {
+        margin-top: -125px;
     }
 
 }
